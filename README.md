@@ -27,3 +27,9 @@ Allow me to show you around:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Deibercastaeda2)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/deybercastaneda/)
 
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=Deyber2000&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Deyber2000&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+</details>
