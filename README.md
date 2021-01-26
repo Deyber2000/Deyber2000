@@ -22,12 +22,12 @@ Allow me to show you around:
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </details>
 
-<details>
+
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
 	<img src="https://jf-gh-stats.vercel.app/api?username=Deyber2000&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
 	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Deyber2000&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
-</details>
+
 
 **You can find me on:**
 
