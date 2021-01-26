@@ -1,7 +1,7 @@
 ### I'm honored you're visiting my GitHub! :octocat:
 
 Let me introduce myself:
-I'm a Full Software Developer passionate about solving problems using good practices. My current focus is to build big software solutions to common problems. Always trying to develop solutions with a serverless architectures approach.
+I'm a Full Software Developer passionate about solving problems using good practices. My current focus is to build big software solutions to common problems. Always trying to develop solutions with a serverless architecture approach.
 
 
 
