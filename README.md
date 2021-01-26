@@ -28,6 +28,28 @@ Allow me to show you around:
 	<img src="https://jf-gh-stats.vercel.app/api?username=Deyber2000&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
 	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Deyber2000&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
 </details>
+<details>
+	<summary>📝&nbsp;&nbsp;&nbsp;<b>Some iteresting Medium posts</b></summary>
+	<br/>
+	<ul>
+		<li>
+			<a href="https://garzondeiber6.medium.com/what-happens-when-you-type-a-url-in-your-browser-and-press-enter-17d22e9a0560">What happens when you type an URL in your browser</a>
+		</li>
+		<li>
+			<a href="https://medium.com/swlh/build-web-server-from-scratch-with-python-60188f3b162a">Build Web Server from scratch using Python</a>
+		</li>
+		<li>
+			<a href="https://garzondeiber6.medium.com/style-your-data-analysis-b219d72f1bd7">Style your Data Analysis</a>
+		</li>
+		<li>
+			<a href="https://codeburst.io/python3-mutable-immutable-858c28096e9a">Mutability in Python</a>
+		</li>
+		<li>
+			<a href="https://garzondeiber6.medium.com/"><i>More…</i></a>
+		</li>
+	</ul>
+</details>
+
 
 **You can find me on:**
 
