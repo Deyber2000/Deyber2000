@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm honored you're visiting my GitHub! :octocat:
+======
 
-<!--
-**Deyber2000/Deyber2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Software Developer apassionate about solving problems using good practices. My current focus is to buid big software solutions to common problems around the world. Always trying to develop solution with a serverless architectures approach.
+Eternal student
 
-&nbsp;Hello, world!👋  <br/> I am Deyber Castañeda 
+Allow me to show you around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👇 I've pinned the six repositories that most closely reflect my development skills. One is a personal project, the other are projects built while improving my software skills studying at [Holberton School](https://holbertonschool.com).
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Deibercastaeda2)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/deybercastaneda/)
+
