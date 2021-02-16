@@ -1,6 +1,6 @@
 ### I'm honored you're visiting my GitHub! :octocat:
 
-Let me tell a little bit about me:
+Let me tell you a little bit about me:
 I'm a Full Stack Software Developer passionate about solving problems using good practices. My current focus is to build big software solutions to common problems. Always trying to develop solutions with a serverless architecture approach.
 
 
