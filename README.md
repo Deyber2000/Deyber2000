@@ -1,13 +1,13 @@
 ### I'm honored you're visiting my GitHub! :octocat:
 
 Let me tell you a little bit about me:
-I'm a Full Stack Software Developer passionate about solving problems using good practices. My current focus is to build big software solutions to common problems. Always trying to develop solutions with a serverless architecture approach.
+I'm a Full Stack Software Developer looking for build doors instead of just waiting opportunities to knock. I am convinced that the best way to change the future is to build it, software can help us on that, and I have decided to participate in this.
 
 
 
 Allow me to show you around:
 
-👇 I've pinned the six repositories that most closely reflect my development skills. One is a personal project, the other are projects built while improving my software skills studying at [Holberton School](https://holbertonschool.com).
+👇 I've pinned the six repositories that most closely reflect my development skills. One of them is a personal project, the others are projects built while improving my software skills at [Holberton School](https://holbertonschool.com).
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
