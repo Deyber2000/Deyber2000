@@ -5,7 +5,7 @@ I'm a Full Stack Software Developer looking for building doors instead of just w
 
 
 
-Allow me to show you around:
+Let me to show you around:
 
 👇 
 
