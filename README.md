@@ -7,7 +7,7 @@ I'm a Full Stack Software Developer looking for building doors instead of just w
 
 Allow me to show you around:
 
-👇 I've pinned the six repositories that most closely reflect my development skills. One of them is a personal project, the others are projects built while improving my software skills at [Holberton School](https://holbertonschool.com).
+👇 
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
