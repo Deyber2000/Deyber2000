@@ -1,7 +1,7 @@
 ### I'm honored you're visiting my GitHub! :octocat:
 
 Let me tell you a little bit about me:
-I'm a Full Stack Software Developer looking for build doors instead of just waiting opportunities to knock. I am convinced that the best way to change the future is to build it, software can help us on that, and I have decided to participate in this.
+I'm a Full Stack Software Developer looking for building doors instead of just waiting opportunities to knock. I am convinced that the best way to change the future is to build it, software can help us on the way, and I have decided to participate in this.
 
 
 
